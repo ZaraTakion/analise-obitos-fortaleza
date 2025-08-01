@@ -38,4 +38,4 @@ Ministério da Saúde - SIM/DATASUS
 
 ---
 
-🧐 Projeto desenvolvido por **Zara Takion** como parte do portfólio de Análise de Dados.
+Projeto desenvolvido por **Zara Takion** como parte do portfólio de Análise de Dados.
